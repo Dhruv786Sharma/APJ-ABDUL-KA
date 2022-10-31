@@ -46,16 +46,16 @@ h2
 }
 #sci
 {
-    font-size: x-large;
+    font-size: xx-large;
     font-family: sans-serif;
-    font-weight: 150;
+    font-weight: 300;
     
 }
 #pre
 {
-    font-size: x-large;
+    font-size: xx-large;
     font-family: sans-serif;
-    font-weight: 150;
+    font-weight: 400;
     
 }
 #awards
@@ -91,10 +91,9 @@ h2
 .menu
 {
     position: fixed;
-    background-color: white;
+    background-color: burlywood;
     width: 100%;
     margin-top: 0px;
-    top: 2px;
     z-index: 15;
 }
 .links
@@ -117,7 +116,7 @@ h2
 }
 #book
 {
-    background: blue ;
+    background: lightskyblue ;
 }
 #speech
 {
